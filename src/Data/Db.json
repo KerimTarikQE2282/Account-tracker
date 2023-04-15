@@ -1,0 +1,15 @@
+{
+   "Accounts":[
+        { "Account_Email": "johndoe@example.com", "Account_Password": "xwH#23dL1", "Account_By": "Facebook" },
+        { "Account_Email": "sarahsmith@gmail.com", "Account_Password": "p@ssw0rd123", "Account_By": "Google" },
+        { "Account_Email": "jenniferlee@yahoo.com", "Account_Password": "m0n3yM@k3r", "Account_By": "Twitter" },
+        { "Account_Email": "davidbrown@hotmail.com", "Account_Password": "S3cur3Pa$$", "Account_By": "LinkedIn" },
+        { "Account_Email": "alexanderscott@aol.com", "Account_Password": "7H@8dF*#", "Account_By": "GitHub" },
+        { "Account_Email": "katherinewang@outlook.com", "Account_Password": "3xP3rTc0d3"," Account_By": "Microsoft" },
+        { "Account_Email": "ryannguyen@gmail.com", "Account_Password": "B3stP@ssw0rd", "Account_By": "Yahoo" },
+        { "Account_Email": "oliviahall@yahoo.com", "Account_Password": "y0uR#th3B3st", "Account_By": "Amazon" },
+        { "Account_Email": "danielkim@hotmail.com", "Account_Password": "1sTCl@ss#", "Account_By": "Apple" },
+        { "Account_Email": "samanthajohnson@gmail.com", "Account_Password": "g00gl3R0ck$", "Account_By": "Google" }
+      ]
+    
+}
