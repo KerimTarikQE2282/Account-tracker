@@ -2,6 +2,7 @@ import { Button, TextField } from '@mui/material'
 import React from 'react'
 import {useDispatch} from 'react-redux';
 import Store from '../Store'
+import { AddnewAcount } from '../Features/Accounts';
 
 function AddAcounts() {
     const [account,setAccount]=React.useState(
@@ -24,7 +25,9 @@ const dispatch=useDispatch()
 const HandleSubmit=(e)=>{
   e.preventDefault()
 console.log('submitted')
-dispatch({type:'Account/AddAccount',payload:account})
+const addnewTodothunk=AddnewAcount(account)
+dispatch(addnewTodothunk)
+{/*dispatch({type:'Account/AddAccount',payload:account})*/}
 }
   return (
     <div >
